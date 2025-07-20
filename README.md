@@ -12,3 +12,8 @@ https://stackoverflow.com/questions/76146837/a-fatal-esptool-py-error-occurred-c
 Brownout detector was triggered
 
 https://www.modulemore.com/en/article/51/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9B%E0%B8%B4%E0%B8%94-error-brownout-detector-was-triggered-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-esp32-%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%9B%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94?srsltid=AfmBOorR_hLhX5M_uze7bSm8ANJw_xF52CJvXiN33IynCIv0gKFJopQf
+
+
+#ISSUE 3
+
+You need to use HTTPs (more secure) to able to sent data to Telegram bot
